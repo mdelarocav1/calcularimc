@@ -1,0 +1,4 @@
+#Thu Nov 02 00:10:10 PET 2023
+base.0=/Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

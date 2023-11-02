@@ -1,0 +1,12 @@
+com.example.calcularimc.app-jetified-window-1.0.0-beta04-0 /Users/miguel/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.calcularimc.app-jetified-annotation-experimental-1.1.0-1 /Users/miguel/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.calcularimc.app-core-1.6.0-2 /Users/miguel/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.calcularimc.app-jetified-window-java-1.0.0-beta04-3 /Users/miguel/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.calcularimc.app-debug-4 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/android/app/src/debug/res
+com.example.calcularimc.app-main-5 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/android/app/src/main/res
+com.example.calcularimc.app-pngs-6 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/generated/res/pngs/debug
+com.example.calcularimc.app-resValues-7 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/generated/res/resValues/debug
+com.example.calcularimc.app-rs-8 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/generated/res/rs/debug
+com.example.calcularimc.app-mergeDebugResources-9 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.calcularimc.app-mergeDebugResources-10 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.calcularimc.app-merged_res-11 /Volumes/Media Cache/VSCode/Flutter_CodiGO_TECSUP/calcularimc/build/app/intermediates/merged_res/debug
